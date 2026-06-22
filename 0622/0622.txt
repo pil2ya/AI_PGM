@@ -1,0 +1,81 @@
+김주현
+경성대학교 소프트웨어학과 초빙교수
+	   DB 전문회사 사외이사
+
+전화번호 : 010-2519-0395
+이메일 : isadora@naver.com
+
+ftpserver.ksecole.kr
+id : intel
+pwd : intel7
+
+https://wikidocs.net/
+https://github.com/
+
+인공지능프로그래밍 단톡방
+채팅방 : 인텔7기
+참여코드 : intel
+
+https://www.python.org/
+download - Python install manager
+Win + r : cmd
+>python
+(prompt) >> 상단에 있는 버전 확인 // 우리는 3.14.6 설치함
+
+건강챙기기 (수면)
+
+https://notebooklm.google.com/
+notebooklm 에서 자료수집한다고함. (예전엔 블로그같은거)
+
+파인만공부법 활용하기
+
+GUI(Graphic User Interface) - 아이콘으로 명령을 내리고 실행할 수 있는 것
+CLI(Command Line Interface) - cmd를 활용하여 명령을 내릴 수 있는 단계
+CLI 하려면 영타가 받쳐줘야하니 연습필요 (한컴타자연습 추천 ㅋㅋ)
+
+Alt + d = 디렉토리 주소 한번에 긁을 수 있게 하는 단축키 (탐색기나 인터넷에서)
+cmd환경에서 해당 디렉토리로 이동하려면 ' cd 주소 '입력
+
+Print 함수 이용 예제) - C:\Users\user\Documents\Intel\Hello.py
+print("Welcome to Python")
+print("1 + 2 =", 1+2)
+print("원하는 문자열을 출력할 때는 print함수를 이용함")
+
+cmd에 python hello.py 입력
+= python 파일명
+
+pycharm, visual studio code 다운로드 하는중
+
+visual studio code 좌측 5번째 메뉴가 확장 extension 메뉴.
+그 중에 python 을 찾아서 설치해야함.
+
+IDE(통합개발환경)=이버깅,코딩,런 다 할수있는 프로그램.
+
+VScode는 문서편집기임. 여기서 확장프로그램을 설치하면 원하는 분야의 IDE로 사용할 수 있음.
+최근 업계 동향이 VScode로 많이 넘어가고 있는 추세.
+
+간단한 오류가 생겼을 때 해결이 필요할땐 ChatGPT가 편함.
+
+Github)
+github에 있는 readme.md에 md는 mark down이랍니다
+github에 파일 올리자마자 확인해보면 안보일때가 있음. 그냥 업로드 속도문제라 기다리면 됨
+**Github에 Readme.md를 이용해서 디렉토리 설명으로 정리하여 한눈에 보기 좋게 할 수 있음 이거 꽤나 꿀팁
+
+data - 현실세계의 일어난 일
+information - 가공이 이루어진 data
+
+정보의 흐름
+1. Data = Input
+2. Process(Memory) = 변수(명)
+3. Information = Output
+
+Data 타입들 = 숫자, 문자, 리스트
+
+8진수에  0o34 이렇게 표현하고 16진수에 0x2A 이런식으로 표현하는데
+가운데 o, x는 octa와 hexa를 표현. 16진수는 왜 h가 아니냐면 h, p처럼 help, print로 정해놓은 고유명사 느낌이라
+그걸 피하느라 x로 표현.
+
+숫자형 - 정수, 실수, 8진수, 16진수
+문자열 - ", ', """, '''
+""", '''는 다른 언어에는 없는 것. -> 여러줄의 문자열을 변수에 대입하고 싶을 때 사용.
+
