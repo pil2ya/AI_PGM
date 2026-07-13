@@ -106,16 +106,16 @@ print(fruits)   # ['cherry']
 - `index(x)`: 값의 위치를 찾습니다.
 
 ```python
-nums =[5][6][7][3]
+nums = [5, 6, 7, 3]
 
-print(nums.count(1))  # 2
-print(nums.index(4))  # 2
+print(nums.count(5))  # 1
+print(nums.index(7))  # 2
 
 nums.sort()
-print(nums)           #[6][7][5][3]
+print(nums)           # [3, 5, 6, 7]
 
 nums.reverse()
-print(nums)           #[7][5][6][3]
+print(nums)           # [7, 6, 5, 3]
 ```
 
 ## 9. 반복문과 함께 사용하기
