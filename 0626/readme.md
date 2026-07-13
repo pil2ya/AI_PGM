@@ -71,7 +71,7 @@ print(fruits)   # ['apple', 'orange', 'banana', 'cherry']
 ```python
 fruits = ["apple", "banana", "cherry"]
 
-fruits = "orange"[3]
+fruits = "orange"[1]
 print(fruits)   # ['apple', 'orange', 'cherry']
 ```
 
