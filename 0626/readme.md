@@ -290,27 +290,22 @@ key로 값을 빠르게 찾고 싶으면 `dict`를 사용하고, 중복 제거�
 
 ### List
 ```python
-nums =[3][4][5]
+nums = [3, 4, 5]
 nums.append(4)
-print(nums)  #[7][4][5][3]
-```
+print(nums)          # [3, 4, 5, 4]
 
-### Tuple
-```python
+# Tuple
 coords = (3, 5)
-print(coords)  # 3
-```
+print(coords)        # (3, 5)
+print(coords[0])     # 3
 
-### Dictionary
-```python
+# Dictionary
 student = {"name": "Lee", "score": 95}
-print(student["name"])  # Lee
-```
+print(student["name"])   # Lee
 
-### Set
-```python
+# Set
 data = {1, 2, 2, 3}
-print(data)  # {1, 2, 3}
+print(data)          # {1, 2, 3}
 ```
 
 ---
