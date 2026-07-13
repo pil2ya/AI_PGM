@@ -312,12 +312,14 @@ print(data)          # {1, 2, 3}
 
 ## 8. Container 비교표
 
-| Type | Ordered | Mutable | Duplicate | Access |
-|---|---:|---:|---:|---|
-| `list` | Yes | Yes | Yes | index |
-| `tuple` | Yes | No | Yes | index |
-| `dict` | Yes | Yes | key unique | key |
-| `set` | No | Yes | No | membership |
+## 8. Container 비교표
+
+| 자료형(Type) | 순서 유지 (Ordered) | 수정 가능 (Mutable) | 중복 허용 (Duplicate) | 접근 방식 (Access) |
+|--------------|----------------------|----------------------|------------------------|--------------------|
+| **List (리스트)** | O | O | O | 인덱스(`list[index]`) |
+| **Tuple (튜플)** | O | X | O | 인덱스(`tuple[index]`) |
+| **Dictionary (딕셔너리)** | O | O | 키(Key)는 중복 불가 (값은 중복 가능) | 키(`dict[key]`) |
+| **Set (집합)** | X | O | X | 포함 여부(`in`) |
 
 ---
 
